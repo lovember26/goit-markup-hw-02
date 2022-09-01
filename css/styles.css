@@ -59,7 +59,7 @@ body {
 .hero-btn {
   background-color: var(--accent-color);
   color: #fff;
-
+  font-family: inherit;
   cursor: pointer;
   font-weight: 700;
   font-size: 16px;
