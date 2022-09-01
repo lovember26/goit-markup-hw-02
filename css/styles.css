@@ -6,6 +6,7 @@
 body {
   font-family: "Roboto", sans-serif;
   color: var(--heading-color);
+  letter-spacing: 00.03em;
 }
 
 /* Styles header */
@@ -20,7 +21,7 @@ body {
   font-size: 26px;
   text-decoration: none;
   line-height: 1.19;
-  letter-spacing: 0.03em;
+ 
 }
 
 .logo-end-header {
@@ -77,14 +78,14 @@ body {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
-  letter-spacing: 0.03em;
+  
   text-transform: uppercase;
 }
 .features-text {
   color: var(--text-color);
   font-size: 14px;
   line-height: 1.7;
-  letter-spacing: 0.03em;
+  
 }
 /* Styles what we do */
 
@@ -94,19 +95,19 @@ body {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
-  letter-spacing: 0.03em;
+  
 }
 .team-name {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
-  letter-spacing: 0.03em;
+  
 }
 .team-descr {
   color: var(--text-color);
   font-size: 16px;
   line-height: 1.19;
-  letter-spacing: 0.03em;
+  l
 }
 /* Styles footer */
 .footer {
@@ -119,7 +120,7 @@ body {
   color: #fff;
   font-size: 14px;
   line-height: 1.7;
-  letter-spacing: 0.03em;
+  
   text-decoration: none;
   font-style: normal;
 }
@@ -144,7 +145,7 @@ body {
   font-size: 16px;
   line-height: 1.62;
   text-align: center;
-  letter-spacing: 0.03em;
+  
   border: none;
 }
 .portfolio-btn:hover,
@@ -165,7 +166,7 @@ body {
 
   font-size: 16px;
   line-height: 1.88;
-  letter-spacing: 0.03em;
+  
 }
 .portfolio-item {
   text-decoration: none;
