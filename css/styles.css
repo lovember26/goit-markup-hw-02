@@ -99,7 +99,7 @@ body {
 }
 .activity-heading,
 .team-heading {
-  font-weight: 700;
+  
   font-size: 36px;
   line-height: 1.17;
   
@@ -163,7 +163,7 @@ body {
 
 .portfolio-item-heading {
   color: var(--heading-color);
-  font-weight: 700;
+  
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
