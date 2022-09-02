@@ -7,6 +7,7 @@ body {
   font-family: "Roboto", sans-serif;
   color: var(--heading-color);
   letter-spacing: 00.03em;
+  background-color: #fff;
 }
 
 /* Styles header */
@@ -56,6 +57,7 @@ body {
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
+  text-transform: uppercase;
 }
 .hero-btn {
   background-color: var(--accent-color);
@@ -69,8 +71,7 @@ body {
 }
 .hero-btn:hover,
 .hero-btn:focus {
-  color: var(--accent-color);
-  background-color: #f5f4fa;
+  background-color: #188CE8;
 }
 
 /* Styles features */
@@ -90,6 +91,12 @@ body {
 /* Styles what we do */
 
 /* Styles team */
+.team{
+  background-color: #F5F4FA;
+}
+.team-item{
+  background-color: #fff;
+}
 .activity-heading,
 .team-heading {
   font-weight: 700;
